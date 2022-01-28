@@ -445,7 +445,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         if (cps <= 25) return '张卒NM$L';
         if (cps <= 45)  return '张卒断子绝孙';
         if (cps <= 60) return '张卒一个人照相就是全家福';
-        return '人？';
+        return '张卒死妈玩意儿';
     }
 
     function toStr(obj) {
